@@ -1,6 +1,6 @@
 package binary;
 
-public class ExplictConversion {
+public class ExplicitConversion {
 
 	public static void main(String[] args) {
 		
